@@ -3,6 +3,7 @@ Frontend para proyecto de desarrollo web, nombre: unnamed
 
 Para cargar el proyecto, clonarlo, correr Yarn install sobre el directorio, y correr yarn start; debe estar corriendo el backend para que funcione la conexion al API.
 
+Unnamed es una idea de proyecto que he tenido desde mucho tiempo; la idea es una plataforma donde cualquier usuario, casi de forma anonima, puede colocar al publico una imagen, video, soundbyte, texto, historia, o link, y recibir likes y mensajes anonimos para cada uno. La idea es como un reddit super simplificado, pero de tema completamente libre y mucho más anónimo. Es una mala idea respecto a lo que la gente podría publicar y decir, como se comprobó en otro momento con la app "Secret", pero siempre me llamo la atención como una forma de siempre tener contenido nuevo sin ningún tipo de recomendación. Obviamente se tendría que implementar moderación super estricta para evitar problemas.
 # Cosas que se pueden hacer en el frontend:
 
 en `/`:
